@@ -2,7 +2,7 @@ import openai
 import os
 
 # Use environment variable for security *****
-openai.api_key = "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"
+openai.api_key = "XXXXXXXXXXX"
 
 #4 faqs for testing
 #questions posed to personnel at work
